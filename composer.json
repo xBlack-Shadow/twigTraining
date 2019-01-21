@@ -1,0 +1,15 @@
+{
+  "name": "Evertz-IT/Twigtest",
+  "description": "just a Twig test Project",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Florian Evertz",
+      "email": "florian.evertz@gmail.com"
+    }
+  ],
+  "require": {
+    "twig/twig": "2.x-dev"
+  }
+}
